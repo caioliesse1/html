@@ -1,0 +1,6 @@
+@import url(fontes/idroid.otf);
+
+@font-face {
+    font-family: idroid font;
+    src: url('fontes/idroid.otf') format('opentype');
+}
